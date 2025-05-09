@@ -5,3 +5,4 @@
 ### Control de versiones
 Es el sistema que se encarga de organizar cada version que se va realiza en el codigo principal.
 Asi tenemos un historial de todo lo que vamos progresando en el codigo principal.
+![alt text](https://codideep.com/img/blogpost/imagenportada/201811200000001.png)
