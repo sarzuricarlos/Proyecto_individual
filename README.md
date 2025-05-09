@@ -1,5 +1,5 @@
-# _* Apunte de clases *_
+# _*Apunte de clases*_
 
-## * Introduccion a Git *
+## *Introduccion a Git*
 
-### * Control de versiones *
+### *Control de versiones*
