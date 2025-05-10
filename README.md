@@ -82,6 +82,12 @@ Se puede realizar de manera muy sencilla, al ser un mensaje de confirmacion pode
 
 ![alt text](https://i.imgur.com/ogoyi2W.png)
 
+#### -----------------------------------------------------------------------------------
+### ¿Que es el HEAD?
 
+Es la ubicacion en donde te encuentras, en otras palabras es la rama donde te encuentras.
+Es como el pin que hace referencia a donde te encuentras actualmente el repositorio.
+
+![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20230504180513/git-head-architecture.webp)
 
 
