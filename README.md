@@ -90,4 +90,10 @@ Es como el pin que hace referencia a donde te encuentras actualmente el reposito
 
 ![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20230504180513/git-head-architecture.webp)
 
+#### -----------------------------------------------------------------------------------
+### ¿Que es una rama?
 
+Es una version copia de la rama actual, por ejemplo cuando iniciamos un proyecto git, tenemos lo que seria la rama main.
+La primera rama que creemos partira de la rama main pero de ahi ya se creara ramas a partir de la nueva rama creada y asi sucesivamente, por eso se llama ramas, ya que todas van enlazadas de una rama principal.
+
+![alt text](https://media.datacamp.com/cms/google/ad_4nxf_maaumizik2_rv90hfm0msw-ugg4h1qqw6ccptxgswvukyg5uvusuw8e71ier7hcxugept-skyaf81nvxocgyfafrfsemrobon-gkpalhosbgbrxtwdple928ngt6tvxrecb9hz7eiwvpb6rh-ifqy18.png)
