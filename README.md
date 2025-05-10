@@ -28,19 +28,34 @@ Pueden ser tanto locales como remotos, la diferencia es que el local se encuentr
 
 Primero debemos descargar de la pagina web de Git "[text](https://git-scm.com/downloads)" 
 Abrimos el archivo descargado y en los primeros paneles debemos poner "Next"
+ 
 ![alt text](https://www.mclibre.org/consultar/informatica/img/git/git-instalacion-01.png)
+ 
 Llegamos al panel que preguntara con que editor de codigo queremos utilizar y seleccionamos el editor de nuestra preferencia y que tengamos instalado 
+ 
 ![alt text](https://www.solvetic.com/uploads/monthly_11_2021/tutorials-9832-0-34695800-1635843407.png)
+ 
 En nuestro caso utilizaremos Visual Studio Code
 En el siguiente panel tendremos dos opciones y seleccionamos el segundo que es el mas actualizado y por defecto en el cuadro de texto tendremos main, si no tuviera ponemos main.
-
+ 
 En el siguiente panel seleccionamos el que esta recomendado para nosotros 
+ 
 ![alt text](https://www.ionos.com/es-us/digitalguide/fileadmin/DigitalGuide/Screenshots_2022/screenshot-of-path-environment-options-during-git-bash-installation.jpg)
+ 
 Luego tenemos un panel que tendremos que elegir para usar bundled SSH
 Luego en el siguiente panel seleccionamos openSSL
 En el siguiente panel tenemos multiples opciones, si somos windows debemos elegir la opcion de Windows-style. La otra opcion es para sistemas operativos Linux.
+ 
 ![alt text](https://kinsta.com/wp-content/uploads/2023/04/line-ending-conversions.png)
+ 
 En el nuevo panel que aparecera tenemos lo que seria MinTTY que es simplemente como vera la terminal de git.
 Luego en el siguiente panel tenemos que elegir "fast-forward or merge"
 De aqui en adelante simplemente le damos a "next" hasta llegar a "Install"
+ 
 ![alt text](https://miro.medium.com/v2/resize:fit:990/1*XYMyRItzk_HQVSoeFXmLkw.png)
+
+### Iniciar un proyecto de Git
+
+Para iniciar un nuevo proyecto debemos tener creado una carpeta en donde se almacenara todos los archivos que subiremos luego a GitHub.
+Lo que debemos hacer es con "git init" en el Git bash para ya iniciar el proyecto de ahi debemos empezar creando README.md, que es recomendable para la poner como la sinopsis de lo que trata nuestro proyecto 
+![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20220915184539/GitInit1.jpg)
