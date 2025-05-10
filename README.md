@@ -97,3 +97,9 @@ Es una version copia de la rama actual, por ejemplo cuando iniciamos un proyecto
 La primera rama que creemos partira de la rama main pero de ahi ya se creara ramas a partir de la nueva rama creada y asi sucesivamente, por eso se llama ramas, ya que todas van enlazadas de una rama principal.
 
 ![alt text](https://media.datacamp.com/cms/google/ad_4nxf_maaumizik2_rv90hfm0msw-ugg4h1qqw6ccptxgswvukyg5uvusuw8e71ier7hcxugept-skyaf81nvxocgyfafrfsemrobon-gkpalhosbgbrxtwdple928ngt6tvxrecb9hz7eiwvpb6rh-ifqy18.png)
+
+#### -----------------------------------------------------------------------------------
+### ¿Para que sirve una rama?
+
+Para realizar trabajos de manera no lineal, por ejemplo al trabajar en equipo cada uno puede tener su rama y asi al aplicar cambios, no afectar a la rama principal, esto nos permite poder realizar multiples cambios y al final con los diferentes colaboradores unir nuestras partes del proyecto.
+![alt text](https://www.unir.net/wp-content/uploads/2023/03/git2.jpg)
