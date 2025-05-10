@@ -57,5 +57,31 @@ De aqui en adelante simplemente le damos a "next" hasta llegar a "Install"
 ### Iniciar un proyecto de Git
 
 Para iniciar un nuevo proyecto debemos tener creado una carpeta en donde se almacenara todos los archivos que subiremos luego a GitHub.
-Lo que debemos hacer es con "git init" en el Git bash para ya iniciar el proyecto de ahi debemos empezar creando README.md, que es recomendable para la poner como la sinopsis de lo que trata nuestro proyecto 
+Lo que debemos hacer es con "git init" en el Git bash para ya iniciar el proyecto de ahi debemos empezar creando README.md, que es recomendable para la poner como la sinopsis de lo que trata nuestro proyecto.
+         
 ![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20220915184539/GitInit1.jpg)
+
+#### ***********************************************************************************
+## *States y Commits*
+### Los 3 estados de Git
+    -Modified
+    Son los cambios en los archivos que aun no han sido confirmados 
+    -Staged
+    El archivo ya fue confirmado pero aun no se grabo en el repositorio local
+    -Commited
+    Los cambios ya fueron aceptados y el archivo se guardo en el repositorio local
+
+![alt text](https://i.ytimg.com/vi/dEBWNvY8dY4/maxresdefault.jpg)
+
+#### -----------------------------------------------------------------------------------
+### ¿Que es un commit?
+Es el estado actual o en el que se encontro en algun momento un archivo o varios archivos que llega a tener el autor, fecha, localización.
+El commit podemos verlo como el punto de guardado que se va almacenando en el repositorio
+
+Se puede realizar de manera muy sencilla, al ser un mensaje de confirmacion podemos hacerlo de varias maneras pero la que a mi gusto es la mejor seria " git commit -m "(Lo que se guardo en el archivo)" "
+
+![alt text](https://i.imgur.com/ogoyi2W.png)
+
+
+
+
